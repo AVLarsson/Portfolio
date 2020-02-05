@@ -1,0 +1,57 @@
+
+.backDiv {
+    background-color: lightgrey;
+    height: 60rem;
+    max-width: 90%;
+    margin: auto;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.picBox {
+    background-color: rgb(130, 130, 130);
+    margin: auto;
+    max-width: 88%;
+    height: 60rem;
+ 
+}
+
+.transDiv {
+    background-color: rgb(247, 247, 247);
+    opacity: 0.5;
+    height: 68rem;
+    margin-top: 0.5rem;
+    width: 15rem;
+    margin-left: 50rem;
+    top: 0px;
+    position: absolute;
+}
+
+.portrait {
+    width:100%;
+    height:100%; 
+    margin:0; 
+    padding:0; 
+    display: flex;
+    /* background-size: cover; */
+
+}
+
+body {
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-left: 2rem;
+    margin-top: 30rem;
+}
+
+p {
+    margin-left: 4rem;
+    margin-top: -2rem;
+}
+
+/*MOBILE*/ 
+
+@media 
